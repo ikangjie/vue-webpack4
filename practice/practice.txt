@@ -1,0 +1,5 @@
+instance //Vue实例
+
+lifecycle //生命周期
+
+data-binding //数据绑定
